@@ -39,7 +39,7 @@ Project created by <a href="https://github.com/SPlRlT-YT-SPIRITSER">spirit-ser</
 
   ### Simple Method
   
-[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/SPlRlT-YT/spirit-ser.git)
+[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com.git)
 
 SIMPLE BGM BOT ONLY!
 
